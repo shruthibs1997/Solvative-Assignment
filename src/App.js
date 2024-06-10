@@ -1,9 +1,10 @@
 import './App.css';
+import SearchBoxComponent from './components/SerachBoxComponent';
 
 function App() {
   return (
     <>
-      <div>hello</div>
+      <SearchBoxComponent/>
     </>
   );
 }
